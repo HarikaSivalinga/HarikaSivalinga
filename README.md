@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-💻 Java Full Stack Developer | ☁️ Cloud & DevOps Engineer  
+💻 Java Full Stack Developer | Full Stack Developer, Data Analyst  | Java,  Python, Spring Boot ,Sql | Microservices | Angular | CI/CD | Agile | Kubernetes | AWS | Azure | REST APIs | Actively Seeking Full-Time / Contract Opportunities  
 </p>
 
-A passionate software engineer with 5+ years of experience building scalable, secure, and high-performance enterprise applications using Java, Spring Boot, and Microservices.
+A passionate software engineer with 5 years of experience building scalable, secure, and high-performance enterprise applications using Java, Spring Boot, and Microservices.
 
 🔗 <b>Check my LinkedIn</b>:  
 https://www.linkedin.com/in/harika-a180962b4  
@@ -15,7 +15,7 @@ https://www.linkedin.com/in/harika-a180962b4
 
 ## 💡 How I Add Value to Your Team 
 
-- 5+ years delivering scalable backend and full-stack solutions  
+- 5 years delivering scalable backend and full-stack solutions  
 - Strong expertise in Java, Spring Boot, Microservices, and REST APIs  
 - Experience with event-driven architecture using Kafka  
 - Cloud experience with AWS (EC2, S3, RDS, Lambda, IAM, CloudWatch)  
@@ -94,4 +94,4 @@ https://www.linkedin.com/in/harika-a180962b4
 
 ---
 
-⭐ *Open to Cloud / Backend / Platform Engineering Opportunities*
+⭐ Full Stack Developer, Data Analyst  | Java,  Python, Spring Boot ,Sql | Microservices | Angular | CI/CD | Agile | Kubernetes | AWS | Azure | REST APIs | Actively Seeking Full-Time / Contract Opportunities
