@@ -36,7 +36,7 @@ https://www.linkedin.com/in/harika-a180962b4
 ## 📂 Projects 
 
 - 🔗 [PacerPro Platform Engineer Project](https://github.com/HarikaSivalinga/platform-engineer-test.git)  
-- 🔗 AI-Powered Stock Prediction Tool  
+- 🔗 AI-Powered Stock Prediction Tool([https://github.com/Rivier-Computer-Science/AI-Agent-Stock-Prediction](url))  
 - 🔗 E-Commerce Shopping Cart System  
 - 🔗 ATM Transaction System  
 
